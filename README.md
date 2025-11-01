@@ -1,3 +1,7 @@
+
+Fraud Detection Analysis Using Python
+
+
 # Fraud-Detection-Analysis
 The Fraud Transactions Dataset contains key details about user transactions, helping in identifying fraudulent activities and behavioral patterns.
 1. Transaction_Amount: Higher transaction amounts may have a higher risk of fraud.
